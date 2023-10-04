@@ -1,0 +1,23 @@
+{
+  "name": "tecsup-2023-tarea-corralesgranda",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [],
+  "author": "Luis",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  ".npmignore": [
+    "test/",
+    "node_modules/",
+    "dist/",
+    "bin/"
+  ]
+}

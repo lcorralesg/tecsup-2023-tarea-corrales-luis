@@ -1,0 +1,9 @@
+# This file specifies the files and directories that should be excluded from the npm package when it is published.
+# Exclude development files and directories
+node_modules/
+test/
+# Exclude build files and directories
+dist/
+# Exclude configuration files
+package-lock.json
+*.log
